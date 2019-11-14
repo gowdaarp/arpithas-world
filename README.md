@@ -1,6 +1,7 @@
 # arpithas-world
 read the guide repository
 
-hi i like turtles
+roses are red
+violets are blue
+hi
 
-there is a snake in my boot
